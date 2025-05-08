@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Leverton",
+    "slug": "leverton",
+    "description": "AI-powered lease abstraction and CAM clause recognition designed for large commercial portfolios.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/leverton.jpg",
+    "target_audience_match": "Perfect for asset managers overwhelmed by complex portfolios who need instant visibility into CAM terms.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Prophia",
+    "slug": "prophia",
+    "description": "Commercial lease AI built specifically to handle rent roll insights, CAM details, and landlord reporting.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/prophia.jpg",
+    "target_audience_match": "Ideal for landlord reps and brokers who dread CAM season and need automated clarity across leases.",
+    "price": "From $49/mo per building",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Occupier",
+    "slug": "occupier",
+    "description": "Modern lease management built for tenants and landlords with detailed CAM charge and rent tracking.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/occupier.jpg",
+    "target_audience_match": "Great for smaller landlords or tenants stressed by unpredictable CAM bills and tracking obligations manually.",
+    "price": "Free plan available",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "LeasePilot",
+    "slug": "leasepilot",
+    "description": "Draft and abstract commercial leases with CAM logic directly into lease docs using AI templates.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/leasepilot.jpg",
+    "target_audience_match": "Perfect for legal and leasing teams racing to finalize deals without missing CAM specifics.",
+    "price": "From $99/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Visual Lease",
+    "slug": "visual-lease",
+    "description": "Full-featured lease accounting and management with robust CAM allocation, forecasting, and compliance tools.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/visual-lease.jpg",
+    "target_audience_match": "Best for enterprise landlords managing complex portfolios who can't afford CAM errors or compliance risks.",
+    "price": "Custom pricing",
+    "data-link": "pending"
+  }
+]
